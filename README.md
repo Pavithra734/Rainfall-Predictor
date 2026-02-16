@@ -108,6 +108,16 @@ http://127.0.0.1:5000
 
 ---
 
+## Application Preview
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Prediction Result
+![Result](screenshots/result.png)
+
+---
+
 ## 👩‍💻 Author
 
 **Pavithra Mekala**
